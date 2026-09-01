@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://technovacore.github.io/www.tncs.in/sitemap.xml
